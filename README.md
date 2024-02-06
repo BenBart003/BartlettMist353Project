@@ -1,4 +1,4 @@
-#Clickable Weather Web Applicaion
+# Clickable Weather Web Applicaion
 
 This web app will feature a map that the user can click on and get weather data of the area the user click on. It is unfinished. As of 2/6, it just has a very rough layout with no functonality.
 
