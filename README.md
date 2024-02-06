@@ -1,3 +1,9 @@
+#Clickable Weather Web Applicaion
+
+This web app will feature a map that the user can click on and get weather data of the area the user click on. It is unfinished. As of 2/6, it just has a very rough layout with no functonality.
+
+The map will can be a map of the entire world, depending on availability of weather data. The user will click somewhere on the map, that will return gps coordinates to then find the nearest city, then get data for that city.
+
 # Competitive Analysis
 
 [https://www.accuweather.com/en/us/national/weather-radar](https://www.accuweather.com/en/us/national/weather-radar)
@@ -28,7 +34,7 @@ While this website isn't a direct competitor, it could become a good resource. C
 
 This website shows weather station and the data from them. Each weather station dot is different colors depending on temperature it has some different aspects depending on weather. There is a useful legend the user can pull up to decipher what the different things mean. It appears to be using multiple APIs from weather.com.
 
-# GitHub
+# GitHub Research
 
 [https://github.com/Prince-Shivaram/Simple-Weather-App](https://github.com/Prince-Shivaram/Simple-Weather-App)
 
@@ -37,3 +43,20 @@ This website shows weather station and the data from them. Each weather station 
 [https://github.com/miccou/click-for-coordinates](https://github.com/miccou/click-for-coordinates)
 
 Click for Coordinates is a web application that gets geo-coordinates by clicking on a map. According to the README is will display the coordinates as either a JSON or CSV. This could be something I could pull ideas from to help get my coordinates to then find historical weather data.
+
+# Future
+
+- Add favorites for Cities
+- Add ability to search address, not use map
+- Add radar overlay
+
+# Citations
+
+[Microsoft Copilot](https://www.bing.com/search?q=Bing+AI&showconv=1)
+[W3 Schools](https://www.w3schools.com/)
+
+# Referneces
+
+Used [Microsoft Copilot](https://www.bing.com/search?q=Bing+AI&showconv=1) for cleaning up code.
+
+"Format this code correctly and make it more readable. Do not change the code itself"
