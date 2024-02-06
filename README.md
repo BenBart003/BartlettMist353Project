@@ -55,7 +55,7 @@ Click for Coordinates is a web application that gets geo-coordinates by clicking
 [Microsoft Copilot](https://www.bing.com/search?q=Bing+AI&showconv=1)
 [W3 Schools](https://www.w3schools.com/)
 
-# Referneces
+# Refereneces
 
 Used [Microsoft Copilot](https://www.bing.com/search?q=Bing+AI&showconv=1) for cleaning up code.
 
